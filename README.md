@@ -10,16 +10,6 @@ I'm passionate about building secure, scalable systems and exploring the interse
 ## 🛡️ Professional Focus
 - **Cybersecurity:** Application security, network defense, penetration testing, and secure coding.
 - **Machine Learning:** Applying ML for anomaly detection, security analytics, and building intelligent, adaptive systems.
----
 
-## 🛠️ Technical Toolkit
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Cloud** | AWS (EC2, S3, IAM, VPC), CloudFormation |
-| **Security** | Nmap, Metasploit, Wireshark, Burp Suite, Pentesting |
-| **Operating Systems** | Kali Linux, Ubuntu, Red Hat, Windows Server |
-| **Languages & Frameworks** | Python (XGBoost, Flask), Bash Scripting, SQL |
-| **Networking** | TCP/IP, DNS, VPNs, Firewall Configuration |
 
 
