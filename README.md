@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Allan
 
-IT Specialist| Cybersecurity & Cloud Learner| Machine Learning     
+IT Specialist | Cybersecurity & Cloud Learner | Machine Learning     
 
 I'm passionate about building secure, scalable systems and exploring the intersection of development, networking, and cloud infrastructure. My current focus areas include:
 
