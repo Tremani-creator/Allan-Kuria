@@ -8,7 +8,7 @@ I'm passionate about building secure, scalable systems and exploring the interse
 ---
 
 ## 🛡️ Professional Focus
-- **Cybersecurity:** Application security (AppSec), network defense, penetration testing, and secure coding.
+- **Cybersecurity:** Application security, network defense, penetration testing, and secure coding.
 - **Machine Learning:** Applying ML for anomaly detection, security analytics, and building intelligent, adaptive systems.
 - 
 ---
@@ -25,13 +25,7 @@ I'm passionate about building secure, scalable systems and exploring the interse
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 * ## 📫 Let's Connect
 * **Email:** tremanitech@gmail.com
-* **Instagram:**https://www.instagram.com/tremani_tech?igsh=d2Z3enk3cmtoNHVj
+* **Instagram:** https://www.instagram.com/tremani_tech?igsh=d2Z3enk3cmtoNHVj
   
