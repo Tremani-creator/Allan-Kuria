@@ -22,9 +22,4 @@ I'm passionate about building secure, scalable systems and exploring the interse
 | **Languages & Frameworks** | Python (XGBoost, Flask), Bash Scripting, SQL |
 | **Networking** | TCP/IP, DNS, VPNs, Firewall Configuration |
 
----
 
-* ## 📫 Let's Connect
-* **Email:** tremanitech@gmail.com
-* **Instagram:** https://www.instagram.com/tremani_tech?igsh=d2Z3enk3cmtoNHVj
-  
