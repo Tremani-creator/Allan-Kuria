@@ -10,7 +10,6 @@ I'm passionate about building secure, scalable systems and exploring the interse
 ## 🛡️ Professional Focus
 - **Cybersecurity:** Application security, network defense, penetration testing, and secure coding.
 - **Machine Learning:** Applying ML for anomaly detection, security analytics, and building intelligent, adaptive systems.
-- 
 ---
 
 ## 🛠️ Technical Toolkit
